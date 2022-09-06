@@ -5,7 +5,7 @@ info:
   author: l1b3ri
   severity: high
   description: 万户OA DownloadServlet接口存在任意文件读取漏洞，攻击者通过漏洞可以读取服务器中的敏感文件，获取敏感信息 fofadork app="万户网络-ezOFFICE"
-  tags: wanhu, sqli
+  tags: wanhu
 
 requests:
   - method: GET
